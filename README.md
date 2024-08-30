@@ -21,6 +21,7 @@ This is a simple weather application built using React. It allows users to searc
 
 » Error handling for invalid location searches or failed API requests
 
+
 🤖Technologies Used
 
 WeatherApp is built using the following technologies:
@@ -30,3 +31,5 @@ WeatherApp is built using the following technologies:
 » OpenWeatherMap API: An API that provides access to weather data, including current weather conditions, forecasts, and more.
 
 » Axios: A promise-based HTTP client for making API requests from the frontend.
+
+DEMO - https://react-weather-app-by-sarba.onrender.com/
