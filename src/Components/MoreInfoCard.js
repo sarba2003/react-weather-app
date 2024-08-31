@@ -25,13 +25,7 @@ function MoreInfoCard({ data }) {
           {degreeSymbol}
         </span>
       </p>
-      <p className="">
-        {t("Max-Temp")}:{" "}
-        <span>
-          {formattedData.temp_max}
-          {degreeSymbol}
-        </span>
-      </p>
+    
     </div>
   );
 }
